@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/gwhyte/Projects/ios/TaskmanReact/src/styles'
+let g:netrw_dirhist_2='/Users/gwhyte/Projects/ios/TaskmanReact/node_modules'
+let g:netrw_dirhist_3='/Users/gwhyte/Projects/ejs/.git'
+let g:netrw_dirhist_4='/Users/gwhyte/Projects/ios/TaskmanReact/src/styles'
+let g:netrw_dirhist_5='/Users/gwhyte/Projects/ios/TaskmanReact/src/reducers'
+let g:netrw_dirhist_6='/Users/gwhyte/Projects/ios/TaskmanReact/node_modules/jsdom/lib/jsdom'
+let g:netrw_dirhist_7='/Users/gwhyte/Projects/ios/TaskmanReact/src/reducers'
